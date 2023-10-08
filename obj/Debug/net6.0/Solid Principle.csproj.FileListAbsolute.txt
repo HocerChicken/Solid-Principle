@@ -1,0 +1,14 @@
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\bin\Debug\net6.0\Solid Principle.exe
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\bin\Debug\net6.0\Solid Principle.deps.json
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\bin\Debug\net6.0\Solid Principle.runtimeconfig.json
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\bin\Debug\net6.0\Solid Principle.dll
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\bin\Debug\net6.0\Solid Principle.pdb
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.AssemblyInfoInputs.cache
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.AssemblyInfo.cs
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.csproj.CoreCompileInputs.cache
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.dll
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\refint\Solid Principle.dll
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.pdb
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\Solid Principle.genruntimeconfig.cache
+E:\StudyInClass\HK1nam4\reposCSharp\Solid Principle\obj\Debug\net6.0\ref\Solid Principle.dll
